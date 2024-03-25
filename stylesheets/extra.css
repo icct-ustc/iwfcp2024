@@ -1,0 +1,5 @@
+.md-header {
+    background-image: url('./fig/ustc.jpeg');
+    background-size: cover; /* 确保图片填充整个标题栏 */
+    background-position: center; /* 设置图片居中 */
+}
