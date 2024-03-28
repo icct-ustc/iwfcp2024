@@ -1,4 +1,10 @@
 .md-nav {
-    color: rgb(177, 136, 31);
-    --md-text-font: "arial";
+    color: rgb(223, 92, 27);
+    /* font-size: 15pt; */
+    font-weight: bold;
+    /* --md-text-font: "arial"; */
+  }
+
+.md-button--foo {
+    background: red;
   }
